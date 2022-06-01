@@ -1,1 +1,1 @@
-<img src="../pizzaria/pizzaria.png" />
+<img src="pizzaria.png" />
