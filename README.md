@@ -1,1 +1,1 @@
-<img src="../Downloads/pizzaria.png" />
+<img src="../pizzaria/pizzaria.png" />
